@@ -1,5 +1,7 @@
 # Project handover & enablement pack
 
+[![CI](https://github.com/derekgallardo01/project-handover-pack/actions/workflows/ci.yml/badge.svg)](https://github.com/derekgallardo01/project-handover-pack/actions/workflows/ci.yml)
+
 Templates that make the end of an engagement as professional as the start:
 a **handover guide**, an operational **runbook**, and a short
 **walkthrough-video script** so a non-technical owner can run and maintain
