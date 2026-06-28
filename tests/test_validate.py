@@ -15,7 +15,10 @@ def _abs(rel):
 def test_examples_have_no_unfilled_placeholders():
     for name in ("examples/handover-greenfield-logistics.md",
                  "examples/runbook-greenfield-logistics.md",
-                 "examples/loom-script-greenfield-logistics.md"):
+                 "examples/loom-script-greenfield-logistics.md",
+                 "examples/handover-whitford-legal.md",
+                 "examples/runbook-whitford-legal.md",
+                 "examples/loom-script-whitford-legal.md"):
         issues = validate.lint(_abs(name))
         assert issues == [], f"{name} still has placeholders: {issues[:3]}"
 
