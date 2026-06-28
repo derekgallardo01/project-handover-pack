@@ -1,0 +1,24 @@
+{
+  "repo": "project-handover-pack",
+  "title": "Project Handover & Enablement Pack",
+  "tagline": "Handover guide, runbook, and Loom-script templates so the engagement ends as professional as it started.",
+  "kicker": "Consulting \u00b7 Handover \u00b7 Engagement Kit",
+  "features": [
+    {
+      "label": "Templates",
+      "value": "Handover + runbook + Loom"
+    },
+    {
+      "label": "Examples",
+      "value": "2 worked engagements"
+    },
+    {
+      "label": "Linter",
+      "value": "Placeholder gate"
+    }
+  ],
+  "theme": {
+    "primary": "#2d3748",
+    "accent": "#4a5568"
+  }
+}
