@@ -2,6 +2,8 @@
 
 [![CI](https://github.com/derekgallardo01/project-handover-pack/actions/workflows/ci.yml/badge.svg)](https://github.com/derekgallardo01/project-handover-pack/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](#)
 
+**Docs:** [Getting started](docs/getting-started.md) · [Usage](docs/usage.md) · [Diagrams](docs/diagrams.md) · [FAQ](docs/faq.md)
+
 Templates that make the end of an engagement as professional as the start:
 a **handover guide**, an operational **runbook**, and a short
 **walkthrough-video script** so a non-technical owner can run and maintain
